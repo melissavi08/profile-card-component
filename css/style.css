@@ -14,13 +14,26 @@
 body {
   width: 100%;
   min-height: 100vh;
+  font-family: "Kumbh Sans", sans-serif;
   background-color: var(--primaryColor);
 }
 
 main {
-  min-width: 100%;
+  width: 100%;
   max-width: 500px;
   padding: 25px;
+  text-align: center;
+}
+
+h3 {
+  font-size: 18px;
+  color: var(--secondaryBlueColor);
+}
+
+p {
+  margin-top: 8px;
+  font-size: 14px;
+  color: var(--complementaryGrayColor);
 }
 
 .cardContainer {
@@ -67,10 +80,16 @@ main {
   border-top: 1px solid black;
 }
 
+.stats p {
+  margin-top: 4px;
+  font-size: 10px;
+  letter-spacing: 2px;
+}
+
 .attribution {
   font-size: 11px;
   text-align: center;
 }
 .attribution a {
-  color: hsl(228, 45%, 44%);
+  color: white;
 }
