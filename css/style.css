@@ -19,6 +19,10 @@ body {
   min-height: 100vh;
   font-family: "Kumbh Sans", sans-serif;
   background-color: var(--primaryColor);
+  background-image: url("../images/bg-pattern-top.svg"),
+    url("../images/bg-pattern-bottom.svg");
+  background-repeat: no-repeat, no-repeat;
+  background-position: right 50vw bottom 40vh, left 50vw top 50vh;
 }
 
 main {
@@ -109,7 +113,7 @@ p {
 }
 
 .attribution {
-  margin-top: 10px;
+  margin: 10px;
   font-size: 11px;
   text-align: center;
 }
