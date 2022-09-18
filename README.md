@@ -8,11 +8,11 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 #### Mobile Screenshot
 
-<img src="./screenshots/mobile-screenshot.png" alt="mobile-screenshot" style="width:30%;"/>
+<img src="./screenshots/mobile-screenshot.jpg" alt="mobile-screenshot" style="width:30%;"/>
 
 #### Desktop Screenshot
 
-<img src="./screenshots/desktop-screenshot.png" alt="desktop-screenshott" style="width:100%;"/>
+<img src="./screenshots/desktop-screenshot.jpg" alt="desktop-screenshott" style="width:60%;"/>
 
 ## Links
 
