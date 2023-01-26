@@ -43,7 +43,7 @@ h3 {
 p {
   margin: 8px 0px;
   font-size: 14px;
-  color: var(--complementaryGrayColor);
+  color: var(--secondaryGrayColor);
 }
 
 .cardContainer {
@@ -102,7 +102,7 @@ p {
   height: 90px;
   align-items: center;
   justify-content: space-evenly;
-  border-top: 0.5px solid var(--complementaryGrayColor);
+  border-top: 1px solid #dddddd;
 }
 
 .stats p {
