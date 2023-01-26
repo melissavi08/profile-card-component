@@ -48,7 +48,7 @@ p {
 
 .cardContainer {
   display: grid;
-  border-radius: 10px;
+  border-radius: 16px;
   width: 100%;
   background-color: var(--complemetaryWhiteColor);
   overflow: hidden;
@@ -102,7 +102,7 @@ p {
   height: 90px;
   align-items: center;
   justify-content: space-evenly;
-  border-top: 1px solid var(--complementaryGrayColor);
+  border-top: 0.5px solid var(--complementaryGrayColor);
 }
 
 .stats p {
